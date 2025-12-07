@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/menu_sos"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="SOS Emergency"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/menu_share_location"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Share Location"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Settings"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="About"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Logout"
+        app:showAsAction="never" />
+    
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782667110133",
+    "project_id": "tourist-guardian-a0d19",
+    "storage_bucket": "tourist-guardian-a0d19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782667110133:android:2638d92657409c55fa57bc",
+        "android_client_info": {
+          "package_name": "com.harsh.touristguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApupOVaHqi5Uo1Ak1k_5hPXnJ-XMuaxvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
