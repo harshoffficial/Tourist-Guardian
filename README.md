@@ -1,4 +1,4 @@
-# 🛡️ Tourist Guardian - Your Safety Companion for Traveling in India
+# Tourist Guardian - 
 
 <div align="center">
 
