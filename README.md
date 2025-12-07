@@ -9,27 +9,8 @@
 [![Android](https://img.shields.io/badge/Android-24%2B-green.svg)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Enabled-yellow.svg)](https://firebase.google.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Technology Stack](#-technology-stack)
-- [Installation & Setup](#-installation--setup)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [Usage Guide](#-usage-guide)
-- [API Integration](#-api-integration)
-- [Safety Features](#-safety-features)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
